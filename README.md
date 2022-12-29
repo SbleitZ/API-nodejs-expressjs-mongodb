@@ -1,6 +1,6 @@
 # API WEB
 # **Introducción**
-Esta API web contiene rutas y una pequeña base de datos local usando JSON, además de poder conectarse a tu app de mongoDB y además tiene interacciones CRUD con la base de datos MongoDB.
+Esta API web contiene rutas y una pequeña base de datos local usando JSON, además de poder conectarse a tu app de mongoDB y además tiene interacciones CRUD con la base de datos `MongoDB`.
 ## **Pre-requisitos**
 Para poder usar la API correctamente es necesario tener
  - Node >=16
