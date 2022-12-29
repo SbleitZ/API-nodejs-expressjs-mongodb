@@ -13,7 +13,7 @@ Para hacer esto tienes que ir al archivo [APP.JS](./src/app.js) y luego colocar 
 ### **Una vez instalado todo, usa**
 -   **npm start**
 ### **Prueba de API**
-Para probar la API puedes usar [Consumir API](https://github.com/SbleitZ/Consumir-API), es una APP para consumir API'S, donde todo se recibe por consola, o usar otras alternativas como PostMan.
+Para probar la API puedes usar [Consumir API](https://github.com/SbleitZ/Consumir-API), es una APP para consumir API'S, donde todo se recibe por consola, o usar otras alternativas como Postman.
 - `Ruta principal: localhost:3000`
 ### Resultado
 Haremos un `GET` como prueba del funcionamiento de la API
