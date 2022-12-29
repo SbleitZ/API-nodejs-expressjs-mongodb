@@ -1,0 +1,65 @@
+{
+    "categorias": 
+    [
+        {
+            "nombre": "Perros",
+            "imagen": "https://i.imgur.com/fb68C7K.png",
+            "color": "#ffa43a",
+            "id": "b89f39bc-fb10-4669-ac7f-af688d805b32"
+        },
+        {
+            "nombre": "Anime",
+            "imagen": "https://i.imgur.com/QzsfSEB.png",
+            "color": "#33fff6",
+            "id": "89e74891-f9ec-4e9d-823e-ded52be81e32"
+        },
+        {
+            "nombre": "Gatos",
+            "imagen": "https://i.imgur.com/sESzhmy.png",
+            "color": "#759eff",
+            "id": "bdb36d28-6d42-11ed-a1eb-0242ac120002"
+        },
+        {
+            "nombre": "Diversión ",
+            "imagen": "https://i.imgur.com/SOBihvm.png",
+            "color": "#ff35c2",
+            "id": "bdb367f6-6d42-11ed-a1eb-0242ac120002"
+        },
+        {
+            "nombre": "Educación",
+            "imagen": "https://i.imgur.com/IEy54GP.png",
+            "color": "#68da3e",
+            "id": "bdb36684-6d42-11ed-a1eb-0242ac120002"
+        },
+        {
+            "nombre": "Filosofia",
+            "imagen": "https://i.imgur.com/dERmqWL.png",
+            "color": "#ebb7ce",
+            "id": "bdb364ea-6d42-11ed-a1eb-0242ac120002"
+        },
+        {
+            "nombre": "Deportes",
+            "imagen": "https://i.imgur.com/UQEXMB1.jpg",
+            "color": "#20c67a",
+            "id": "bdb36378-6d42-11ed-a1eb-0242ac120002"
+        },
+        {
+            "nombre": "Economia",
+            "imagen": "https://i.imgur.com/fmOWM0s.png",
+            "color": "#d6ebc1",
+            "id": "bdb36274-6d42-11ed-a1eb-0242ac120002"
+        },
+        {
+            "nombre": "Diseño",
+            "imagen": "https://i.imgur.com/yz24l0O.png",
+            "color": "#b93af8",
+            "id": "bdb3612a-6d42-11ed-a1eb-0242ac120002"
+        },
+        {
+            "nombre": "Otros",
+            "imagen": "https://i.imgur.com/bWgd8jj.png",
+            "color": "#6f7357",
+            "id": "bdb35fa4-6d42-11ed-a1eb-0242ac120002"
+        }
+    ]
+}
